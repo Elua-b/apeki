@@ -1,0 +1,135 @@
+/* .contact-form-details-form{
+    width: 100%;
+    display: flex;  
+    flex: 0 0 50%; 
+    max-width: 50%;
+} */
+
+
+.form-container h3{
+    text-align: center;
+    
+}
+
+/* .form-container{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} */
+
+.form-field{
+    padding: 15px;
+     width: 100%;
+     border-radius: 5px;
+     border: 1px solid #000000;
+     margin-top: 10px;
+}
+
+
+
+.form-field-textarea{
+    padding-top: 25px;
+    padding-bottom: 35px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    margin-top: 10px;
+}
+.form-name{
+    margin-right: 2em;
+    margin-bottom: 1em;
+}
+.form-number{
+    margin-bottom: 1em;
+}
+.submit{
+    color: white;
+    background-color: #3148A3;
+    border: none;
+    margin:1em 8em;
+    border-radius: 5px;
+}
+.submit:hover{
+    color: #3148A3;
+    background-color: white;
+    
+}
+.form-svg{
+    transform: translateX(20px);
+}
+
+.form-svgg{
+    transform: translateX(20px);
+    margin-bottom: 1.6em;
+}
+.success-message{
+    color: white;
+    background-color: #59AADB;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+.first-contact-inputs{
+    display: flex;
+    width: 100%;
+}
+
+.first-contact-inputs input{
+     padding: 15px;
+     width: 50%;
+     border-radius: 5px;
+     border: 1px solid #000000;
+}
+
+.form-button-submit{
+    color: white;
+    background-color:rgb(52, 134, 52);
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.form-button-submit-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.form-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* background-color: red; */
+    height: 70vh;
+    padding: 30px;
+    margin-top: 50px;
+
+}
+.form-container>h3{
+    text-align: center;
+    /* margin-top: -20px; */
+}
+/* .form-name{
+    width: 30%;
+
+
+}
+.form-number{
+    width: 40%;
+}
+.form-name,.form-number{
+    padding-left: 30px;
+}
+.first-contact-inputs{
+    padding: 15px;
+    width: 50%;
+    border-radius: 5px;
+    border: 1px solid #000000;
+} */

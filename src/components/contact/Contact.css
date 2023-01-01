@@ -1,0 +1,36 @@
+.contact-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.map {
+  width: 50%;
+  display: flex;
+  flex: 0 0 50%;
+  justify-content: center;
+  max-width: 50%;
+}
+.form {
+  width: 50%;
+  /* display: flex;  
+    flex: 0 0 50%;
+    max-width: 50%; */
+}
+.c-btm-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  gap: 1.5rem;
+  padding-left:rem;
+  padding-bottom: 30px;
+
+}
+.c-btm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.c-image{
+    cursor: pointer;
+}

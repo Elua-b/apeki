@@ -1,0 +1,26 @@
+.blog-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
+    gap:1.5rem ;
+    padding: 35px;
+    align-items: center;
+    
+    padding-left: 100px;
+}
+.blog-card{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    background-color: aliceblue;
+    padding: 15px;
+    /* justify-content: center; */
+    /* align-items: center; */
+
+}
+.blog-image{
+    width: 10%;
+
+}
+.blog-sents{
+    width: 100%;
+}

@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+h3{
+  color: rgb(13, 94, 83);
+}
+.spcl{
+  font-size: 15px;
+  opacity: 0.7;
+}
+button{
+  cursor: pointer;
+}
